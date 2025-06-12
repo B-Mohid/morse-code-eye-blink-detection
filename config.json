@@ -1,0 +1,12 @@
+{
+  "eye_ar_thresh": 0.35,
+  "open_eye_time_thresh": 0.1,
+  "consec_frames": 3,
+  "frame_skip_rate": 2,
+  "max_queue_size": 10,
+  "fps_update_interval": 1.0,
+  "auto_calibration_frames": 30,
+  "max_blink_duration": 2.0,
+  "min_blink_duration": 0.05,
+  "performance_monitoring": true
+}
